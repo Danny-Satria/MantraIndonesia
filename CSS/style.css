@@ -166,7 +166,7 @@ body {
 }
 
 .carousel-item img {
-  height: 500px;
+  height: 600px;
 }
 
 /* carousel */
@@ -201,7 +201,7 @@ body {
   position: absolute;
   width: 800px;
   top: 30em;
-  left: 15em;
+  left: 16em;
 }
 
 .sejarah-rump1,
@@ -215,3 +215,38 @@ body {
 }
 
 /* Artikel */
+
+/* Produk kami */
+
+.produkkami {
+  border: 1px red solid;
+  position: relative;
+  height: 2000px;
+}
+
+.titleProduk {
+  color: white;
+  position: absolute;
+  font-size: 4em;
+  top: 2em;
+  left: 8em;
+}
+
+.spice-gold {
+  position: relative;
+  top: 24.8em;
+  left: 23em;
+}
+.nautica {
+  position: relative;
+  top: -5em;
+  left: 50em;
+  height: 475px;
+}
+
+.nautica .card-body .nati {
+  position: absolute;
+  top: 26em;
+}
+
+/* Produk kami */
