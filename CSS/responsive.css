@@ -51,3 +51,38 @@
     text-align: start;
   }
 }
+
+/* Produk kami */
+
+.produkkami {
+  border: 1px red solid;
+  position: relative;
+  height: 2000px;
+}
+
+.titleProduk {
+  color: white;
+  position: absolute;
+  font-size: 3.9em;
+  top: 3em;
+  left: 0.3em;
+}
+
+.spice-gold {
+  position: relative;
+  top: 20em;
+  left: 4em;
+}
+.nautica {
+  position: relative;
+  top: 24em;
+  left: 4em;
+  height: 475px;
+}
+
+.nautica .card-body .nati {
+  position: absolute;
+  top: 26em;
+}
+
+/* Produk kami */
