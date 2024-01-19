@@ -176,7 +176,6 @@ body {
 .artikel {
   position: relative;
   padding: 3em;
-  border: 1px red solid;
   height: 2000px;
 }
 
@@ -219,7 +218,6 @@ body {
 /* Produk kami */
 
 .produkkami {
-  border: 1px red solid;
   position: relative;
   height: 2000px;
 }
@@ -240,7 +238,7 @@ body {
 .nautica {
   position: relative;
   top: -4.95em;
-  left: 27em;
+  left: 24.5em;
   height: 475px;
 }
 
@@ -249,4 +247,26 @@ body {
   top: 26em;
 }
 
+.cherry-blossom {
+  position: relative;
+  top: -34.6em;
+  left: 44em;
+  height: 475px;
+}
+.red-bavarian {
+  position: absolute;
+  top: -0.4em;
+  left: 19.5em;
+  height: 480px;
+}
+
+.cherry-blossom .card-body .cherry {
+  position: absolute;
+  top: 26em;
+}
+
+.red-bavarian .card-body .bavarian {
+  position: absolute;
+  top: 26.4em;
+}
 /* Produk kami */
